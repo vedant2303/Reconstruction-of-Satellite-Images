@@ -1,0 +1,5 @@
+﻿Pandas
+Numpy
+Tensorflow
+Matplotlib
+DateTime
